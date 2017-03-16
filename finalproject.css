@@ -1,0 +1,98 @@
+header { 
+
+background-color: white;
+margin: 10px;
+height: 200px;
+font-size: 170px;
+text-align:center;
+color: DarkBlue;
+font-family: BigCaslon;
+}
+
+
+nav { 
+
+background-color: white;
+margin: 10px;
+height: 35px;
+}
+
+
+main {
+
+background-color: white ;
+margin: 10px;
+padding: 20px;
+font-size: 110%;
+line-height: 1.5;
+text-align: center;
+
+}
+
+
+body {
+
+min-width: 750px;
+min-height: 1294px;
+background-color: Gainsboro;
+margin: 0px;
+font-family: Verdana, Georgia, serif;
+font-size: 14px;
+}
+
+h1 {
+
+
+color: SlateGrey ;
+text-align: center;
+font-size: 22px;
+text-decoration: underline;
+}
+
+
+
+ 
+ul {
+    list-style-type: none;
+    overflow: hidden;
+
+}
+
+li {
+    display: inline;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top:5px;
+    margin-bottom: 5px;
+    float: left;
+    font-weight: bold;
+    
+}
+
+li a {
+    display: block;
+    color: DarkBlue ;
+    text-align: center;
+    text-decoration: none;
+}
+
+.image {
+ margin-left: 30px;
+
+
+
+
+li a:hover {
+    background-color: Gainsboro;
+}
+
+}
+
+footer {
+
+background-color: white ; 
+margin: 10px;
+height: 60px;
+clear: both;
+
+}
